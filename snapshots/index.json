@@ -1,0 +1,15 @@
+{
+  "schema_version": "ceklokasi-osm-snapshot-index-v1",
+  "snapshots": [
+    {
+      "snapshot_date": "2026-09-15",
+      "release_tag": "osm-poi-id-2026-09-15",
+      "release_url": "https://github.com/Casiman33/ceklokasi-osm-data/releases/tag/osm-poi-id-2026-09-15",
+      "database_url": "https://github.com/Casiman33/ceklokasi-osm-data/releases/download/osm-poi-id-2026-09-15/ceklokasi-osm-poi-indonesia-2026-09-15.sqlite.gz",
+      "metadata_url": "https://github.com/Casiman33/ceklokasi-osm-data/releases/download/osm-poi-id-2026-09-15/ceklokasi-osm-poi-indonesia-2026-09-15.metadata.json",
+      "artifact_sha256": "18848811608b073732e427b3ad34844fa520f76c19b7dbdba28b0c21015e1c1c",
+      "production_activation": "pending",
+      "production_active": false
+    }
+  ]
+}
