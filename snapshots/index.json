@@ -8,8 +8,11 @@
       "database_url": "https://github.com/Casiman33/ceklokasi-osm-data/releases/download/osm-poi-id-2026-09-15/ceklokasi-osm-poi-indonesia-2026-09-15.sqlite.gz",
       "metadata_url": "https://github.com/Casiman33/ceklokasi-osm-data/releases/download/osm-poi-id-2026-09-15/ceklokasi-osm-poi-indonesia-2026-09-15.metadata.json",
       "artifact_sha256": "18848811608b073732e427b3ad34844fa520f76c19b7dbdba28b0c21015e1c1c",
-      "production_activation": "pending",
-      "production_active": false
+      "production_activation": "active",
+      "production_active": true,
+      "production_activated_at": "2026-09-22T08:48:00Z",
+      "production_url": "https://ceklokasi-dun.vercel.app/",
+      "production_revision": "71d2f2d62fe5b9e93fc8079ac16b8ad72db87a9f"
     }
   ]
 }
